@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray">#f6f6f6</color>
+    <color name="dim_gray">#E1E1E1</color>
+    <color name="black_translucent">#80000000</color>
+    <color name="transparent">#00000000</color>
+
+    <color name="dim_green">#2A8F31</color>
+    <color name="green">#41b349</color>
+    <color name="shallow_green">#7BD580</color>
+
+    <color name="dim_pink">#CC72CC</color>
+    <color name="pink">#dda0dd</color>
+    <color name="shallow_pink">#EDC4ED</color>
+
+    <color name="dim_GanLan_green">#7F9E52</color>
+    <color name="GanLan_green">#b2cf87</color>
+    <color name="shallow_GanLan_green">#D7EFB5</color>
+</resources>

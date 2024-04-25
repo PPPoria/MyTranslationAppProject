@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.TranslationApp" parent="Theme.MaterialComponents.DayNight.NoActionBar.Bridge">
+        <!--主色-->
+        <item name="colorPrimary">@color/white</item>
+        <!--状态栏文字颜色，true为黑色-->
+        <item name="android:windowLightStatusBar">false</item>
+        <!-- 是否要填充顶部的状态栏区域：true是，false否 -->
+        <item name="android:windowTranslucentStatus">true</item>
+        <!-- 是否要填充全屏：true是，false否 -->
+        <item name="android:windowTranslucentNavigation">false</item>
+        <!-- 把状态栏背景颜色设置透明 -->
+        <item name="android:statusBarColor">#00000000</item>
+        <!--解决启动页闪屏问题-->
+        <item name="android:windowBackground">@color/green</item>
+    </style>
+
+    <style name="Theme.TranslationApp" parent="Base.Theme.TranslationApp" />
+</resources>
